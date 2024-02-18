@@ -6,6 +6,14 @@
 
 ![image](https://github.com/sahilmandoliya/acme/blob/main/public/assets/images/app/landing.png)
 
+## Features Page
+
+![image](https://github.com/sahilmandoliya/acme/blob/main/public/assets/images/app/features.png)
+
+## Pricing Page
+
+![image](https://github.com/sahilmandoliya/acme/blob/main/public/assets/images/app/pricing.png)
+
 
 
 
