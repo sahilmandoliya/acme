@@ -2,4 +2,9 @@
 
 ## Tech Stack : Astro + React + Tailwind
 
+## Landing Page
+
+![Acme Landing Page](/public/assets/images/app/acme landing page.png
+
+
 
