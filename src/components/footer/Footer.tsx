@@ -110,37 +110,25 @@ const Footer =() =>{
                 </div>
 
                 <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:col-span-2 lg:grid-cols-4">
-                    <div>
-                    <p className="font-medium text-gray-900 dark:text-white">Services</p>
+                <div>
+                    <p className="font-medium text-gray-900 dark:text-white">Useful Links</p>
 
                     <ul className="mt-6 space-y-4 text-sm">
                         <li>
                         <a href="#" className="text-gray-700 transition hover:opacity-75 dark:text-gray-200">
-                            1on1 Coaching
+                            Help
                         </a>
                         </li>
 
                         <li>
                         <a href="#" className="text-gray-700 transition hover:opacity-75 dark:text-gray-200">
-                            Company Review
+                            Guide
                         </a>
                         </li>
 
                         <li>
                         <a href="#" className="text-gray-700 transition hover:opacity-75 dark:text-gray-200">
-                            Accounts Review
-                        </a>
-                        </li>
-
-                        <li>
-                        <a href="#" className="text-gray-700 transition hover:opacity-75 dark:text-gray-200">
-                            HR Consulting
-                        </a>
-                        </li>
-
-                        <li>
-                        <a href="#" className="text-gray-700 transition hover:opacity-75 dark:text-gray-200">
-                            SEO Optimisation
+                            Tutorial
                         </a>
                         </li>
                     </ul>
@@ -171,7 +159,7 @@ const Footer =() =>{
                     </div>
 
                     <div>
-                    <p className="font-medium text-gray-900 dark:text-white">Helpful Links</p>
+                    <p className="font-medium text-gray-900 dark:text-white">Links</p>
 
                     <ul className="mt-6 space-y-4 text-sm">
                         <li>
