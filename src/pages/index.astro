@@ -1,10 +1,21 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import Navbar from '../components/navbar/Nav'
+import Hero from '../components/hero/Hero.astro';
+import Brands from '../components/brands/Brands'
+import AppComp from '../components/app/AppComp'
+import Pricing from '../components/pricing/PricingComp'
+import Features from '../components/feature/feature';
+
 ---
 
 <Layout title="Welcome to Acme">
-	<main>
-		<h1>Hi there!</h1>
+	<main class="relative">
+		<div class="flex flex-col">
+			<Hero />
+			<Features />
+			<Brands />
+			<Pricing />
+			<AppComp />
+		</div>
 	</main>
 </Layout>
