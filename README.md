@@ -4,7 +4,7 @@
 
 ## Landing Page
 
-![Acme Landing Page](/public/assets/images/app/acme landing page.png
+![Acme Landing Page](/public/assets/images/app/acme landing page.png)
 
 
 
