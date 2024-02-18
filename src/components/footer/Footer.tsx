@@ -215,7 +215,7 @@ const Footer =() =>{
                 </div>
 
                 <p className="text-xs text-gray-500 dark:text-gray-400">
-                &copy; 2022. Acme. All rights reserved.
+                &copy; 2024. Acme. All rights reserved.
                 </p>
             </div>
             </footer>
