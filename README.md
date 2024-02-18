@@ -4,7 +4,7 @@
 
 ## Landing Page
 
-![image](https://github.com/sahilmandoliya/acme/assets/images/app/acme landing page.png)
+![image](https://github.com/sahilmandoliya/acme/assets/images/app/landing.png)
 
 
 
