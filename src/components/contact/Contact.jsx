@@ -5,7 +5,7 @@ const ContactComp = () => {
     <div className="relative flex items-top justify-center  bg-white dark:bg-gray-900 sm:items-center sm:pt-0">
         <div className="max-w-6xl mx-auto sm:px-6 lg:px-8">
             <div className="mt-8 overflow-hidden">
-                <div className="flex">
+                <div className="flex flex-col sm:flex-col lg:flex-row">
                     <div className="p-6 mr-2 bg-gray-100 dark:bg-gray-800 sm:rounded-lg">
                         <h1 className="text-4xl sm:text-5xl text-gray-800 dark:text-white font-extrabold tracking-tight">
                             Get in touch
