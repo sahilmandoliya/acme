@@ -4,6 +4,7 @@
 
 ## Landing Page
 ![image](https://github.com/sahilmandoliya/acme/blob/main/public/assets/images/app/lightLanding.png)
+
 ![image](https://github.com/sahilmandoliya/acme/blob/main/public/assets/images/app/landing.png)
 
 ## Features Page
@@ -13,6 +14,7 @@
 ## Pricing Page
 
 ![image](https://github.com/sahilmandoliya/acme/blob/main/public/assets/images/app/lightPricing.png)
+
 ![image](https://github.com/sahilmandoliya/acme/blob/main/public/assets/images/app/pricing.png)
 
 ## Features Page
