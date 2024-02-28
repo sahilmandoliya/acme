@@ -1,4 +1,4 @@
-# SAAS Acme Note Landing Page
+# SAAS Landing Page(Acme Notes)
 
 ## Tech Stack : Astro + React + Tailwind
 
