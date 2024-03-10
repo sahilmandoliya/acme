@@ -9,14 +9,14 @@ const AppComp = () => {
                     <p>Elevate your productivity with our intuitive app designed to simplify your workflow. Experience the power of Acme Note today and revolutionize the way you capture, organize, and share your ideas.</p>
                     <div className="flex justify-center my-10">
                         <div className="flex items-center border w-auto rounded-lg px-4 py-2 w-52 mx-2">
-                            <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" className="w-7 md:w-8" />
+                            <img alt="Google Play Store" src="https://cdn-icons-png.flaticon.com/512/888/888857.png" className="w-7 md:w-8" />
                             <div className="text-left ml-3">
                                 <p className='text-xs dark:text-gray-200'>Download on </p>
                                 <p className="text-sm md:text-base"> Google Play Store </p>
                             </div>
                         </div>
                         <div className="flex items-center border w-auto rounded-lg px-4 py-2 w-44 mx-2">
-                            <img src="https://cdn-icons-png.flaticon.com/512/888/888841.png" className="w-7 md:w-8" />
+                            <img alt="Apple Store" src="https://cdn-icons-png.flaticon.com/512/888/888841.png" className="w-7 md:w-8" />
                             <div className="text-left ml-3">
                                 <p className='text-xs dark:text-gray-200'>Download on </p>
                                 <p className="text-sm md:text-base"> Apple Store </p>
